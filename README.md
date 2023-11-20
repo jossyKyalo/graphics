@@ -1,3 +1,3 @@
 # graphics
 For openGL codes
-[!rainbow hut](https://github.com/jossyKyalo/graphics/edit/main/sample.png)
+![rainbow hut](https://github.com/jossyKyalo/graphics/edit/main/sample.png)
